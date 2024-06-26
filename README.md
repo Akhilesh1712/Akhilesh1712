@@ -2,8 +2,7 @@
 - 👀 I’m interested in Software engineering and Automation Tools 
 - 🌱 I’m currently learning Andvaced data structures and algorithms and Data science Tools 
 - 💞️ I’m looking to collaborate on Software development with Automation 
-- 📫 How to reach me through LinkedIn(linkdin.com/in/akhilesh-kumar-7a6857248)
- and Instagram(__akhilesh200__)
+- 📫 How to reach me through [LinkedIn](linkdin.com/in/akhilesh-kumar-7a6857248)or [Instagram](https://www.instagram.com/__akhilesh200__/)
 
 About Me 
 
