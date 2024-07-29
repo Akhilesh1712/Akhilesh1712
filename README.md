@@ -6,11 +6,11 @@
 
 About Me 
 
-Passionate about technology and innovation, have keen interest in Software Engineering/ System Design . With a strong foundation in Data Structures and Algorithms,  4-star coder  in Python/C++ , solving over 700 DSA problems across various platforms , and secured 52 rank in GFG's 154 coding contest under 2k in many leetcode's contest.
+I am Akhilesh Kumar B.Tech final year student at state government university UIET, Skilled in Data Structures and Algorithms,  4-star coder  in Python/C++ , solving over 700 DSA problems across various platforms.
 
-Proficient in Web development/Android app development (React native, java), In web i have done full-stack(MERN) with some knowledge of Blockchain.Leads team in 40+ Hackathon, won 10+ Hackathon such as EXECUTE3.0 at DTU, INNOVATENSUT'24 at NSUT etc.Also got selected for open source contribution for Fetch.ai at IIT DELHI.
+Have experience in web frameworks such as React.js, Node.js, Flask , Django databases such as PostgreSQL  NoSql such as MongoDB .Also in libraries such as TensorFlow, scikit-learn, Matplotlib etc.
 
-I'm also continually honing my skills in Python, AI, and ML have some interests towards AI Engineering and Data Science.
+Leads in 40+ Hackathon, and Won 15+ including at IIT Delhi, NSUT, DTU etc.
 <!---
 Akhilesh1712/Akhilesh1712 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
